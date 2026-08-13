@@ -48,27 +48,31 @@ Each folder corresponds to a course section and contains the lecture notebooks, 
 
 ## Progress
 
-- [x] Python Crash Course
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Pandas Exercises
-- [ ] Matplotlib
-- [ ] Seaborn
-- [ ] Pandas Built-in Data Viz
-- [ ] Plotly & Cufflinks
-- [ ] Geographical Plotting
-- [ ] Data Capstone Project
-- [ ] Linear Regression
-- [ ] Logistic Regression
-- [ ] K Nearest Neighbors
-- [ ] Decision Trees & Random Forests
-- [ ] Support Vector Machines
-- [ ] K-Means Clustering
-- [ ] Principal Component Analysis
-- [ ] Recommender Systems
-- [ ] Natural Language Processing
-- [ ] Big Data & Spark
-- [ ] Deep Learning
+✅ Done &nbsp;&nbsp; ⬜ Not started
+
+| Status | Section |
+|:---:|---|
+| ✅ | Python Crash Course |
+| ⬜ | NumPy |
+| ⬜ | Pandas |
+| ⬜ | Pandas Exercises |
+| ⬜ | Matplotlib |
+| ⬜ | Seaborn |
+| ⬜ | Pandas Built-in Data Viz |
+| ⬜ | Plotly & Cufflinks |
+| ⬜ | Geographical Plotting |
+| ⬜ | Data Capstone Project |
+| ⬜ | Linear Regression |
+| ⬜ | Logistic Regression |
+| ⬜ | K Nearest Neighbors |
+| ⬜ | Decision Trees & Random Forests |
+| ⬜ | Support Vector Machines |
+| ⬜ | K-Means Clustering |
+| ⬜ | Principal Component Analysis |
+| ⬜ | Recommender Systems |
+| ⬜ | Natural Language Processing |
+| ⬜ | Big Data & Spark |
+| ⬜ | Deep Learning |
 
 ## Tools
 
