@@ -1,15 +1,27 @@
-Python for Data Science and Machine Learning Bootcamp
+# Python for Data Science and Machine Learning Bootcamp
 
-Mina anteckningar, notebooks och övningslösningar från Udemy-kursen Python for Data Science and Machine Learning Bootcamp (Jose Portilla / Pierian Training).
+My notes, notebooks, and exercise solutions from the Udemy course [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) (Jose Portilla / Pierian Training).
 
-Om repot
+## Why I'm taking this course
 
-Ett komplement till MLOps-utbildningen på Nackademin — här ligger fokus på grunderna i dataanalys och klassisk maskininlärning innan man bygger vidare mot driftsättning, monitorering och pipelines.
+I'm studying MLOps Engineering at Nackademin, and while the program covers a lot of deployment, pipelines, and production monitoring, I wanted to go back and really solidify the fundamentals — data analysis and classical machine learning — that all of that is built on top of. This course is a way to repeat and reinforce concepts I've touched on before, fill in gaps, and get more hands-on practice actually cleaning, exploring, and modeling data rather than just working with models that are already deployed.
 
-Struktur
+## What I'm learning
 
-Varje mapp motsvarar en sektion i kursen och innehåller Jupyter-notebooks med föreläsningskod, övningar och (där de finns) egna lösningar:
+- **Python fundamentals** — refreshing core syntax and habits
+- **NumPy** — working with arrays and numerical operations
+- **Pandas** — cleaning, filtering, grouping, and merging real datasets
+- **Data visualization** — Matplotlib, Seaborn, Plotly, and Pandas' built-in plotting
+- **Machine learning fundamentals** — linear & logistic regression, KNN, decision trees, random forests, SVM, K-means clustering, PCA
+- **Recommender systems** and basic **NLP**
+- **Deep learning basics** with TensorFlow
+- **Big data** processing with Spark
 
+## Structure
+
+Each folder corresponds to a course section and contains the lecture notebooks, exercises, and (where available) my own solutions:
+
+```
 01-Python-Crash-Course
 02-Python-for-Data-Analysis-NumPy
 03-Python-for-Data-Analysis-Pandas
@@ -32,28 +44,32 @@ Varje mapp motsvarar en sektion i kursen och innehåller Jupyter-notebooks med f
 21-Big-Data-and-Spark
 22-Deep-Learning
 23-EXTRA-NOTES-SciPy
-Progress
- Python Crash Course
- NumPy
- Pandas
- Pandas-övningar
- Matplotlib
- Seaborn
- Pandas Built-in Data Viz
- Plotly & Cufflinks
- Geografisk plotting
- Kapstenprojekt: dataanalys
- Linjär regression
- Logistisk regression
- K Nearest Neighbors
- Beslutsträd & Random Forest
- Support Vector Machines
- K-Means Clustering
- Principal Component Analysis
- Rekommendationssystem
- Natural Language Processing
- Big Data & Spark
- Deep Learning
-Verktyg
+```
+
+## Progress
+
+- [x] Python Crash Course
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Pandas Exercises
+- [ ] Matplotlib
+- [ ] Seaborn
+- [ ] Pandas Built-in Data Viz
+- [ ] Plotly & Cufflinks
+- [ ] Geographical Plotting
+- [ ] Data Capstone Project
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] K Nearest Neighbors
+- [ ] Decision Trees & Random Forests
+- [ ] Support Vector Machines
+- [ ] K-Means Clustering
+- [ ] Principal Component Analysis
+- [ ] Recommender Systems
+- [ ] Natural Language Processing
+- [ ] Big Data & Spark
+- [ ] Deep Learning
+
+## Tools
 
 Python, Jupyter Notebook, NumPy, Pandas, Matplotlib, Seaborn, Plotly, Scikit-Learn, TensorFlow.
