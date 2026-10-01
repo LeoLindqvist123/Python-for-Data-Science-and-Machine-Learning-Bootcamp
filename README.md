@@ -53,10 +53,10 @@ Each folder corresponds to a course section and contains the lecture notebooks, 
 | Status | Section |
 |:---:|---|
 | ✅ | Python Crash Course |
-| ⬜ | NumPy |
-| ⬜ | Pandas |
-| ⬜ | Pandas Exercises |
-| ⬜ | Matplotlib |
+| ✅ | NumPy |
+| ✅ | Pandas |
+| ✅ | Pandas Exercises |
+| ✅ | Matplotlib |
 | ⬜ | Seaborn |
 | ⬜ | Pandas Built-in Data Viz |
 | ⬜ | Plotly & Cufflinks |
